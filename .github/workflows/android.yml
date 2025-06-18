@@ -31,4 +31,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: Package
-        path: build/
+        path: /home/runner/work/LED-scroller/LED-scroller/app/build/
